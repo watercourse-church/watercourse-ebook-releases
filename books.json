@@ -161,6 +161,29 @@
       }
     },
     {
+      "id": "18",
+      "slug": "18. 죄의 삯은 사망이라(사무엘하)",
+      "title": "죄의 삯은 사망이라",
+      "bookName": "사무엘하",
+      "author": "조춘숙 목사",
+      "publisher": "물줄기교회 출판부",
+      "edition": "제1판",
+      "version": "1.0.1",
+      "releaseDate": "2025-11",
+      "description": "물줄기교회 조춘숙 목사의 사무엘하 강해 설교집 (제18권).",
+      "tags": [
+        "기독교",
+        "설교",
+        "사무엘하",
+        "강해"
+      ],
+      "tag": "18-v1.0.1",
+      "downloads": {
+        "epub": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/18-v1.0.1/18-2-samuel-v1.0.1.epub",
+        "pdf": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/18-v1.0.1/18-2-samuel-v1.0.1.pdf"
+      }
+    },
+    {
       "id": "ark",
       "slug": "(소)생명을 살리는 방주",
       "title": "생명을 살리는 방주",
