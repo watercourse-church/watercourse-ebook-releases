@@ -25,6 +25,29 @@
       }
     },
     {
+      "id": "04",
+      "slug": "04. 너를 위하여 (산상수훈-팔복)",
+      "title": "너를 위하여",
+      "bookName": "너를 위하여",
+      "author": "조춘숙 목사",
+      "publisher": "물줄기교회 출판부",
+      "edition": "제1판",
+      "version": "1.0.0",
+      "releaseDate": "2009-08",
+      "description": "물줄기교회 조춘숙 목사의 산상수훈 강해 설교집 (제4권).",
+      "tags": [
+        "기독교",
+        "설교",
+        "마태복음",
+        "강해"
+      ],
+      "tag": "04-v1.0.0",
+      "downloads": {
+        "epub": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/04-v1.0.0/04-sermon-on-the-mount-v1.0.0.epub",
+        "pdf": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/04-v1.0.0/04-sermon-on-the-mount-v1.0.0.pdf"
+      }
+    },
+    {
       "id": "17",
       "slug": "17. 아모스",
       "title": "아모스 강해",
