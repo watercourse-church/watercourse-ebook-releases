@@ -389,6 +389,29 @@
         "epub": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/18-v1.0.0/18-2-samuel-v1.0.0.epub",
         "pdf": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/18-v1.0.0/18-2-samuel-v1.0.0.pdf"
       }
+    },
+    {
+      "id": "ark",
+      "slug": "(소)생명을 살리는 방주",
+      "title": "생명을 살리는 방주",
+      "bookName": "방주",
+      "author": "조춘숙 목사",
+      "publisher": "물줄기교회 출판부",
+      "edition": "제1판",
+      "version": "1.0.0",
+      "releaseDate": "2017-11",
+      "description": "물줄기교회 조춘숙 목사의 소책자 '생명을 살리는 방주' (출애굽기 2장).",
+      "tags": [
+        "기독교",
+        "설교",
+        "출애굽기",
+        "소책자"
+      ],
+      "tag": "ark-v1.0.0",
+      "downloads": {
+        "epub": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/ark-v1.0.0/ark-v1.0.0.epub",
+        "pdf": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/ark-v1.0.0/ark-v1.0.0.pdf"
+      }
     }
   ]
 }
