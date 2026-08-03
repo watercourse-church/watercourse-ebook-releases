@@ -3,6 +3,28 @@
   "repo": "watercourse-church/watercourse-ebook-releases",
   "books": [
     {
+      "id": "01",
+      "slug": "01. 죽어야만 사는 나라",
+      "title": "죽어야만 사는 나라",
+      "bookName": "죽어야만 사는 나라",
+      "author": "조춘숙 목사",
+      "publisher": "물줄기교회 출판부",
+      "edition": "제1판",
+      "version": "1.0.1",
+      "releaseDate": "2008-04",
+      "description": "물줄기교회 조춘숙 목사의 '죽어야만 사는 나라' (물줄기 좋은 씨앗 시리즈) 설교집.",
+      "tags": [
+        "기독교",
+        "설교",
+        "신앙인물"
+      ],
+      "tag": "01-v1.0.1",
+      "downloads": {
+        "epub": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/01-v1.0.1/01-die-to-live-v1.0.1.epub",
+        "pdf": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/01-v1.0.1/01-die-to-live-v1.0.1.pdf"
+      }
+    },
+    {
       "id": "02",
       "slug": "02. 믿음의 계단",
       "title": "믿음의 계단",
@@ -182,6 +204,29 @@
       "downloads": {
         "epub": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/14-v1.0.0/14-philippians-v1.0.0.epub",
         "pdf": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/14-v1.0.0/14-philippians-v1.0.0.pdf"
+      }
+    },
+    {
+      "id": "16",
+      "slug": "16. 율법의 요구와 십자가의 완성(로마서)",
+      "title": "로마서 강해",
+      "bookName": "로마서",
+      "author": "조춘숙 목사",
+      "publisher": "물줄기교회 출판부",
+      "edition": "제1판",
+      "version": "1.0.0",
+      "releaseDate": "2023-10",
+      "description": "물줄기교회 조춘숙 목사의 로마서 강해 설교집 (제16권).",
+      "tags": [
+        "기독교",
+        "설교",
+        "로마서",
+        "강해"
+      ],
+      "tag": "16-v1.0.0",
+      "downloads": {
+        "epub": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/16-v1.0.0/16-romans-v1.0.0.epub",
+        "pdf": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/16-v1.0.0/16-romans-v1.0.0.pdf"
       }
     },
     {
