@@ -3,6 +3,28 @@
   "repo": "watercourse-church/watercourse-ebook-releases",
   "books": [
     {
+      "id": "02",
+      "slug": "02. 믿음의 계단",
+      "title": "믿음의 계단",
+      "bookName": "믿음의 계단",
+      "author": "조춘숙 목사",
+      "publisher": "물줄기교회 출판부",
+      "edition": "제1판",
+      "version": "1.0.0",
+      "releaseDate": "2020-10",
+      "description": "물줄기교회 조춘숙 목사의 '믿음의 계단' 설교집.",
+      "tags": [
+        "기독교",
+        "설교",
+        "신앙"
+      ],
+      "tag": "02-v1.0.0",
+      "downloads": {
+        "epub": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/02-v1.0.0/02-stairs-of-faith-v1.0.0.epub",
+        "pdf": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/02-v1.0.0/02-stairs-of-faith-v1.0.0.pdf"
+      }
+    },
+    {
       "id": "17",
       "slug": "17. 아모스",
       "title": "아모스 강해",
