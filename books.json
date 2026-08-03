@@ -184,6 +184,29 @@
       }
     },
     {
+      "id": "11",
+      "slug": "11. 교회가 걸어가는 길(요한계시록 일곱 교회)",
+      "title": "요한계시록 강해",
+      "bookName": "요한계시록",
+      "author": "조춘숙 목사",
+      "publisher": "물줄기교회 출판부",
+      "edition": "제1판",
+      "version": "1.0.0",
+      "releaseDate": "2019-05",
+      "description": "물줄기교회 조춘숙 목사의 요한계시록 강해 설교집 (제11권).",
+      "tags": [
+        "기독교",
+        "설교",
+        "요한계시록",
+        "강해"
+      ],
+      "tag": "11-v1.0.0",
+      "downloads": {
+        "epub": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/11-v1.0.0/11-seven-churches-v1.0.0.epub",
+        "pdf": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/11-v1.0.0/11-seven-churches-v1.0.0.pdf"
+      }
+    },
+    {
       "id": "12",
       "slug": "12. 너희가 섬길 자를 오늘 택하라(여호수아)",
       "title": "여호수아 강해",
