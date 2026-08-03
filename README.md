@@ -37,7 +37,7 @@ https://raw.githubusercontent.com/watercourse-church/watercourse-ebook-releases/
       "id": "17",
       "slug": "17. 아모스",
       "title": "아모스 강해",
-      "bookName": "아모스",
+      "bibleBook": "아모스",
       "author": "조춘숙 목사",
       "publisher": "물줄기교회 출판부",
       "edition": "제1판",
@@ -57,6 +57,23 @@ https://raw.githubusercontent.com/watercourse-church/watercourse-ebook-releases/
 
 `books` 는 번호 순으로 정렬되어 있습니다. `downloads` 에는 그 책의 **최신 버전** 링크가 들어갑니다
 (과거 버전은 릴리스 목록에 그대로 남습니다).
+
+### 필드
+
+| 필드 | 뜻 |
+|---|---|
+| `id` | 시리즈 번호. 번호가 없는 책은 별칭(`ark` 등) |
+| `title` | **책 제목** — 인쇄본 표지의 큰 글자 |
+| `bibleBook` | 이 책이 다루는 **성경책**. 특정 성경책 강해가 아니면 빈 문자열 |
+| `author` | 지은이 + 직함 |
+| `edition` / `version` | 판 / 전자책 버전 |
+| `releaseDate` | 인쇄본 발행 연월 |
+| `description` | 책 소개 |
+| `tag` | 릴리스 태그 |
+| `downloads` | `epub` / `pdf` 내려받기 주소 |
+
+`title` 과 `bibleBook` 은 다릅니다. 예를 들어 12번은 제목이 `너희가 섬길 자를 오늘 택하라`,
+다루는 성경책이 `여호수아` 입니다. 표지도 제목을 크게, 성경책을 작게 적습니다.
 
 ### 예시
 
