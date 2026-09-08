@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-03",
+  "generated": "2026-09-08",
   "repo": "watercourse-church/watercourse-ebook-releases",
   "books": [
     {
@@ -411,6 +411,29 @@
       "downloads": {
         "epub": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/18-v1.0.1/18-2-samuel-v1.0.1.epub",
         "pdf": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/18-v1.0.1/18-2-samuel-v1.0.1.pdf"
+      }
+    },
+    {
+      "id": "19",
+      "slug": "19. 나 여호와는 변하지 아니하나니(말라기)",
+      "title": "나 여호와는 변하지 아니하나니",
+      "bibleBook": "말라기",
+      "author": "조춘숙 목사",
+      "publisher": "물줄기교회 출판부",
+      "edition": "제1판",
+      "version": "1.0.0",
+      "releaseDate": "2026-08",
+      "description": "물줄기교회 조춘숙 목사의 말라기 강해 설교집 (제19권).",
+      "tags": [
+        "기독교",
+        "설교",
+        "말라기",
+        "강해"
+      ],
+      "tag": "19-v1.0.0",
+      "downloads": {
+        "epub": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/19-v1.0.0/19-malachi-v1.0.0.epub",
+        "pdf": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/19-v1.0.0/19-malachi-v1.0.0.pdf"
       }
     },
     {
