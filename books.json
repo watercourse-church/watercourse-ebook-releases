@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-09",
+  "generated": "2026-09-10",
   "repo": "watercourse-church/watercourse-ebook-releases",
   "books": [
     {
@@ -90,7 +90,7 @@
       "author": "조춘숙 목사",
       "publisher": "물줄기교회 출판부",
       "edition": "제1판",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "releaseDate": "2017-02",
       "description": "물줄기교회 조춘숙 목사의 아가 강해 설교집 (제3권).",
       "tags": [
@@ -99,18 +99,26 @@
         "아가",
         "강해"
       ],
-      "tag": "03-v1.0.1",
+      "tag": "03-v1.0.2",
       "downloads": {
-        "epub": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/03-v1.0.1/03-song-of-songs-v1.0.1.epub",
-        "pdf": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/03-v1.0.1/03-song-of-songs-v1.0.1.pdf"
+        "epub": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/03-v1.0.2/03-song-of-songs-v1.0.2.epub",
+        "pdf": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/03-v1.0.2/03-song-of-songs-v1.0.2.pdf"
       },
       "editions": [
         {
           "lang": "ko",
           "title": "아름다운 노래",
           "downloads": {
-            "epub": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/03-v1.0.1/03-song-of-songs-v1.0.1.epub",
-            "pdf": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/03-v1.0.1/03-song-of-songs-v1.0.1.pdf"
+            "epub": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/03-v1.0.2/03-song-of-songs-v1.0.2.epub",
+            "pdf": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/03-v1.0.2/03-song-of-songs-v1.0.2.pdf"
+          }
+        },
+        {
+          "lang": "en",
+          "title": "The Beautiful Song",
+          "downloads": {
+            "epub": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/03-v1.0.2/03-song-of-songs-en-v1.0.2.epub",
+            "pdf": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/03-v1.0.2/03-song-of-songs-en-v1.0.2.pdf"
           }
         }
       ]
