@@ -213,7 +213,7 @@
       "author": "조춘숙 목사",
       "publisher": "물줄기교회 출판부",
       "edition": "제1판",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "releaseDate": "2014-02",
       "description": "물줄기교회 조춘숙 목사의 고린도전서 강해 설교집 (제6권, 강해집 2 · 15~27강).",
       "tags": [
@@ -222,59 +222,26 @@
         "고린도전서",
         "강해"
       ],
-      "tag": "06-v1.0.1",
+      "tag": "06-v1.0.2",
       "downloads": {
-        "epub": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/06-v1.0.1/06-1-corinthians-v1.0.1.epub",
-        "pdf": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/06-v1.0.1/06-1-corinthians-v1.0.1.pdf"
+        "epub": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/06-v1.0.2/06-1-corinthians-v1.0.2.epub",
+        "pdf": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/06-v1.0.2/06-1-corinthians-v1.0.2.pdf"
       },
       "editions": [
         {
           "lang": "ko",
           "title": "모든 사명을 사랑으로 감당하라",
           "downloads": {
-            "epub": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/06-v1.0.1/06-1-corinthians-v1.0.1.epub",
-            "pdf": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/06-v1.0.1/06-1-corinthians-v1.0.1.pdf"
+            "epub": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/06-v1.0.2/06-1-corinthians-v1.0.2.epub",
+            "pdf": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/06-v1.0.2/06-1-corinthians-v1.0.2.pdf"
           }
         },
         {
           "lang": "en",
           "title": "Carry Out Every Mission in Love",
           "downloads": {
-            "epub": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/06-v1.0.1/06-1-corinthians-en-v1.0.1.epub",
-            "pdf": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/06-v1.0.1/06-1-corinthians-en-v1.0.1.pdf"
-          }
-        }
-      ]
-    },
-    {
-      "id": "07",
-      "slug": "07. 제사보다 나은 순종(사무엘상)",
-      "title": "제사보다 나은 순종",
-      "bibleBook": "사무엘상",
-      "author": "조춘숙 목사",
-      "publisher": "물줄기교회 출판부",
-      "edition": "제1판",
-      "version": "1.0.1",
-      "releaseDate": "2015-11",
-      "description": "물줄기교회 조춘숙 목사의 사무엘상 강해 설교집 (제7권).",
-      "tags": [
-        "기독교",
-        "설교",
-        "사무엘상",
-        "강해"
-      ],
-      "tag": "07-v1.0.1",
-      "downloads": {
-        "epub": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/07-v1.0.1/07-1-samuel-v1.0.1.epub",
-        "pdf": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/07-v1.0.1/07-1-samuel-v1.0.1.pdf"
-      },
-      "editions": [
-        {
-          "lang": "ko",
-          "title": "제사보다 나은 순종",
-          "downloads": {
-            "epub": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/07-v1.0.1/07-1-samuel-v1.0.1.epub",
-            "pdf": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/07-v1.0.1/07-1-samuel-v1.0.1.pdf"
+            "epub": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/06-v1.0.2/06-1-corinthians-en-v1.0.2.epub",
+            "pdf": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/06-v1.0.2/06-1-corinthians-en-v1.0.2.pdf"
           }
         }
       ]
