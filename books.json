@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-10",
+  "generated": "2026-09-11",
   "repo": "watercourse-church/watercourse-ebook-releases",
   "books": [
     {
@@ -131,7 +131,7 @@
       "author": "조춘숙 목사",
       "publisher": "물줄기교회 출판부",
       "edition": "제1판",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "releaseDate": "2009-08",
       "description": "물줄기교회 조춘숙 목사의 산상수훈 강해 설교집 (제4권).",
       "tags": [
@@ -140,18 +140,26 @@
         "마태복음",
         "강해"
       ],
-      "tag": "04-v1.0.1",
+      "tag": "04-v1.0.2",
       "downloads": {
-        "epub": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/04-v1.0.1/04-sermon-on-the-mount-v1.0.1.epub",
-        "pdf": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/04-v1.0.1/04-sermon-on-the-mount-v1.0.1.pdf"
+        "epub": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/04-v1.0.2/04-sermon-on-the-mount-v1.0.2.epub",
+        "pdf": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/04-v1.0.2/04-sermon-on-the-mount-v1.0.2.pdf"
       },
       "editions": [
         {
           "lang": "ko",
           "title": "산상수훈 강해",
           "downloads": {
-            "epub": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/04-v1.0.1/04-sermon-on-the-mount-v1.0.1.epub",
-            "pdf": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/04-v1.0.1/04-sermon-on-the-mount-v1.0.1.pdf"
+            "epub": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/04-v1.0.2/04-sermon-on-the-mount-v1.0.2.epub",
+            "pdf": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/04-v1.0.2/04-sermon-on-the-mount-v1.0.2.pdf"
+          }
+        },
+        {
+          "lang": "en",
+          "title": "The Sermon on the Mount",
+          "downloads": {
+            "epub": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/04-v1.0.2/04-sermon-on-the-mount-en-v1.0.2.epub",
+            "pdf": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/04-v1.0.2/04-sermon-on-the-mount-en-v1.0.2.pdf"
           }
         }
       ]
