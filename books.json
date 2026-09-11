@@ -335,7 +335,7 @@
       "author": "조춘숙 목사",
       "publisher": "물줄기교회 출판부",
       "edition": "제1판",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "releaseDate": "2018-05",
       "description": "물줄기교회 조춘숙 목사의 룻기 강해 설교집 (제9권).",
       "tags": [
@@ -344,18 +344,26 @@
         "룻기",
         "강해"
       ],
-      "tag": "09-v1.0.1",
+      "tag": "09-v1.0.2",
       "downloads": {
-        "epub": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/09-v1.0.1/09-ruth-v1.0.1.epub",
-        "pdf": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/09-v1.0.1/09-ruth-v1.0.1.pdf"
+        "epub": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/09-v1.0.2/09-ruth-v1.0.2.epub",
+        "pdf": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/09-v1.0.2/09-ruth-v1.0.2.pdf"
       },
       "editions": [
         {
           "lang": "ko",
           "title": "본향으로 가는 발걸음",
           "downloads": {
-            "epub": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/09-v1.0.1/09-ruth-v1.0.1.epub",
-            "pdf": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/09-v1.0.1/09-ruth-v1.0.1.pdf"
+            "epub": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/09-v1.0.2/09-ruth-v1.0.2.epub",
+            "pdf": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/09-v1.0.2/09-ruth-v1.0.2.pdf"
+          }
+        },
+        {
+          "lang": "en",
+          "title": "Footsteps on the Way Home",
+          "downloads": {
+            "epub": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/09-v1.0.2/09-ruth-en-v1.0.2.epub",
+            "pdf": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/09-v1.0.2/09-ruth-en-v1.0.2.pdf"
           }
         }
       ]
