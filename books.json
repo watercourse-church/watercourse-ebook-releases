@@ -172,7 +172,7 @@
       "author": "조춘숙 목사",
       "publisher": "물줄기교회 출판부",
       "edition": "제1판",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "releaseDate": "2010-01",
       "description": "물줄기교회 조춘숙 목사의 전도서 강해 설교집 (제5권).",
       "tags": [
@@ -181,18 +181,26 @@
         "전도서",
         "강해"
       ],
-      "tag": "05-v1.0.1",
+      "tag": "05-v1.0.2",
       "downloads": {
-        "epub": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/05-v1.0.1/05-ecclesiastes-v1.0.1.epub",
-        "pdf": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/05-v1.0.1/05-ecclesiastes-v1.0.1.pdf"
+        "epub": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/05-v1.0.2/05-ecclesiastes-v1.0.2.epub",
+        "pdf": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/05-v1.0.2/05-ecclesiastes-v1.0.2.pdf"
       },
       "editions": [
         {
           "lang": "ko",
           "title": "물 위에 던진 떡",
           "downloads": {
-            "epub": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/05-v1.0.1/05-ecclesiastes-v1.0.1.epub",
-            "pdf": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/05-v1.0.1/05-ecclesiastes-v1.0.1.pdf"
+            "epub": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/05-v1.0.2/05-ecclesiastes-v1.0.2.epub",
+            "pdf": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/05-v1.0.2/05-ecclesiastes-v1.0.2.pdf"
+          }
+        },
+        {
+          "lang": "en",
+          "title": "Bread Cast on the Waters",
+          "downloads": {
+            "epub": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/05-v1.0.2/05-ecclesiastes-en-v1.0.2.epub",
+            "pdf": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/05-v1.0.2/05-ecclesiastes-en-v1.0.2.pdf"
           }
         }
       ]
