@@ -3,6 +3,87 @@
   "repo": "watercourse-church/watercourse-ebook-releases",
   "books": [
     {
+      "id": "02",
+      "slug": "02. 믿음의 계단",
+      "title": "믿음의 계단",
+      "bibleBook": "",
+      "author": "조춘숙 목사",
+      "publisher": "물줄기교회 출판부",
+      "edition": "제1판",
+      "version": "1.0.2",
+      "releaseDate": "2020-10",
+      "description": "물줄기교회 조춘숙 목사의 '믿음의 계단' 설교집.",
+      "tags": [
+        "기독교",
+        "설교",
+        "신앙"
+      ],
+      "tag": "02-v1.0.2",
+      "downloads": {
+        "epub": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/02-v1.0.2/02-stairs-of-faith-v1.0.2.epub",
+        "pdf": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/02-v1.0.2/02-stairs-of-faith-v1.0.2.pdf"
+      },
+      "editions": [
+        {
+          "lang": "ko",
+          "title": "믿음의 계단",
+          "downloads": {
+            "epub": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/02-v1.0.2/02-stairs-of-faith-v1.0.2.epub",
+            "pdf": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/02-v1.0.2/02-stairs-of-faith-v1.0.2.pdf"
+          }
+        },
+        {
+          "lang": "en",
+          "title": "The Stairway of Faith",
+          "downloads": {
+            "epub": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/02-v1.0.2/02-stairs-of-faith-en-v1.0.2.epub",
+            "pdf": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/02-v1.0.2/02-stairs-of-faith-en-v1.0.2.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "03",
+      "slug": "03. 아름다운 노래(아가)",
+      "title": "아름다운 노래",
+      "bibleBook": "아가",
+      "author": "조춘숙 목사",
+      "publisher": "물줄기교회 출판부",
+      "edition": "제1판",
+      "version": "1.0.3",
+      "releaseDate": "2017-02",
+      "description": "물줄기교회 조춘숙 목사의 아가 강해 설교집 (제3권).",
+      "tags": [
+        "기독교",
+        "설교",
+        "아가",
+        "강해"
+      ],
+      "tag": "03-v1.0.3",
+      "downloads": {
+        "epub": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/03-v1.0.3/03-song-of-songs-v1.0.3.epub",
+        "pdf": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/03-v1.0.3/03-song-of-songs-v1.0.3.pdf"
+      },
+      "editions": [
+        {
+          "lang": "ko",
+          "title": "아름다운 노래",
+          "downloads": {
+            "epub": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/03-v1.0.3/03-song-of-songs-v1.0.3.epub",
+            "pdf": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/03-v1.0.3/03-song-of-songs-v1.0.3.pdf"
+          }
+        },
+        {
+          "lang": "en",
+          "title": "The Beautiful Song",
+          "downloads": {
+            "epub": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/03-v1.0.3/03-song-of-songs-en-v1.0.3.epub",
+            "pdf": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/03-v1.0.3/03-song-of-songs-en-v1.0.3.pdf"
+          }
+        }
+      ]
+    },
+    {
       "id": "04",
       "slug": "04. 산상수훈 강해(마태복음)",
       "title": "산상수훈 강해",
@@ -39,6 +120,47 @@
           "downloads": {
             "epub": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/04-v1.0.3/04-sermon-on-the-mount-en-v1.0.3.epub",
             "pdf": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/04-v1.0.3/04-sermon-on-the-mount-en-v1.0.3.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "06",
+      "slug": "06. 모든 사명을 사랑으로 감당하라(고린도전서)",
+      "title": "모든 사명을 사랑으로 감당하라",
+      "bibleBook": "고린도전서",
+      "author": "조춘숙 목사",
+      "publisher": "물줄기교회 출판부",
+      "edition": "제1판",
+      "version": "1.0.3",
+      "releaseDate": "2014-02",
+      "description": "물줄기교회 조춘숙 목사의 고린도전서 강해 설교집 (제6권, 강해집 2 · 15~27강).",
+      "tags": [
+        "기독교",
+        "설교",
+        "고린도전서",
+        "강해"
+      ],
+      "tag": "06-v1.0.3",
+      "downloads": {
+        "epub": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/06-v1.0.3/06-1-corinthians-v1.0.3.epub",
+        "pdf": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/06-v1.0.3/06-1-corinthians-v1.0.3.pdf"
+      },
+      "editions": [
+        {
+          "lang": "ko",
+          "title": "모든 사명을 사랑으로 감당하라",
+          "downloads": {
+            "epub": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/06-v1.0.3/06-1-corinthians-v1.0.3.epub",
+            "pdf": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/06-v1.0.3/06-1-corinthians-v1.0.3.pdf"
+          }
+        },
+        {
+          "lang": "en",
+          "title": "Carry Out Every Mission in Love",
+          "downloads": {
+            "epub": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/06-v1.0.3/06-1-corinthians-en-v1.0.3.epub",
+            "pdf": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/06-v1.0.3/06-1-corinthians-en-v1.0.3.pdf"
           }
         }
       ]
