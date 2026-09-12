@@ -125,6 +125,47 @@
       ]
     },
     {
+      "id": "05",
+      "slug": "05. 물 위에 던진 떡(전도서)",
+      "title": "물 위에 던진 떡",
+      "bibleBook": "전도서",
+      "author": "조춘숙 목사",
+      "publisher": "물줄기교회 출판부",
+      "edition": "제1판",
+      "version": "1.0.3",
+      "releaseDate": "2010-01",
+      "description": "물줄기교회 조춘숙 목사의 전도서 강해 설교집 (제5권).",
+      "tags": [
+        "기독교",
+        "설교",
+        "전도서",
+        "강해"
+      ],
+      "tag": "05-v1.0.3",
+      "downloads": {
+        "epub": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/05-v1.0.3/05-ecclesiastes-v1.0.3.epub",
+        "pdf": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/05-v1.0.3/05-ecclesiastes-v1.0.3.pdf"
+      },
+      "editions": [
+        {
+          "lang": "ko",
+          "title": "물 위에 던진 떡",
+          "downloads": {
+            "epub": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/05-v1.0.3/05-ecclesiastes-v1.0.3.epub",
+            "pdf": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/05-v1.0.3/05-ecclesiastes-v1.0.3.pdf"
+          }
+        },
+        {
+          "lang": "en",
+          "title": "Bread Cast on the Waters",
+          "downloads": {
+            "epub": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/05-v1.0.3/05-ecclesiastes-en-v1.0.3.epub",
+            "pdf": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/05-v1.0.3/05-ecclesiastes-en-v1.0.3.pdf"
+          }
+        }
+      ]
+    },
+    {
       "id": "06",
       "slug": "06. 모든 사명을 사랑으로 감당하라(고린도전서)",
       "title": "모든 사명을 사랑으로 감당하라",
