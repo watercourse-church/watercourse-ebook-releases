@@ -288,6 +288,47 @@
       ]
     },
     {
+      "id": "09",
+      "slug": "09. 본향으로 가는 발걸음(룻기)",
+      "title": "본향으로 가는 발걸음",
+      "bibleBook": "룻기",
+      "author": "조춘숙 목사",
+      "publisher": "물줄기교회 출판부",
+      "edition": "제1판",
+      "version": "1.0.3",
+      "releaseDate": "2018-05",
+      "description": "물줄기교회 조춘숙 목사의 룻기 강해 설교집 (제9권).",
+      "tags": [
+        "기독교",
+        "설교",
+        "룻기",
+        "강해"
+      ],
+      "tag": "09-v1.0.3",
+      "downloads": {
+        "epub": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/09-v1.0.3/09-ruth-v1.0.3.epub",
+        "pdf": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/09-v1.0.3/09-ruth-v1.0.3.pdf"
+      },
+      "editions": [
+        {
+          "lang": "ko",
+          "title": "본향으로 가는 발걸음",
+          "downloads": {
+            "epub": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/09-v1.0.3/09-ruth-v1.0.3.epub",
+            "pdf": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/09-v1.0.3/09-ruth-v1.0.3.pdf"
+          }
+        },
+        {
+          "lang": "en",
+          "title": "Footsteps on the Way Home",
+          "downloads": {
+            "epub": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/09-v1.0.3/09-ruth-en-v1.0.3.epub",
+            "pdf": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/09-v1.0.3/09-ruth-en-v1.0.3.pdf"
+          }
+        }
+      ]
+    },
+    {
       "id": "10",
       "slug": "10. 스데반의 믿음(사도행전)",
       "title": "스데반의 믿음",
