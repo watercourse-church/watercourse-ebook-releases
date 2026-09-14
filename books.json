@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-12",
+  "generated": "2026-09-14",
   "repo": "watercourse-church/watercourse-ebook-releases",
   "books": [
     {
@@ -458,7 +458,7 @@
       "author": "조춘숙 목사",
       "publisher": "물줄기교회 출판부",
       "edition": "제1판",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "releaseDate": "2019-11",
       "description": "물줄기교회 조춘숙 목사의 여호수아 강해 설교집 (제12권).",
       "tags": [
@@ -467,18 +467,26 @@
         "여호수아",
         "강해"
       ],
-      "tag": "12-v1.0.1",
+      "tag": "12-v1.0.2",
       "downloads": {
-        "epub": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/12-v1.0.1/12-joshua-v1.0.1.epub",
-        "pdf": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/12-v1.0.1/12-joshua-v1.0.1.pdf"
+        "epub": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/12-v1.0.2/12-joshua-v1.0.2.epub",
+        "pdf": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/12-v1.0.2/12-joshua-v1.0.2.pdf"
       },
       "editions": [
         {
           "lang": "ko",
           "title": "너희가 섬길 자를 오늘 택하라",
           "downloads": {
-            "epub": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/12-v1.0.1/12-joshua-v1.0.1.epub",
-            "pdf": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/12-v1.0.1/12-joshua-v1.0.1.pdf"
+            "epub": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/12-v1.0.2/12-joshua-v1.0.2.epub",
+            "pdf": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/12-v1.0.2/12-joshua-v1.0.2.pdf"
+          }
+        },
+        {
+          "lang": "en",
+          "title": "Choose Today Whom You Will Serve",
+          "downloads": {
+            "epub": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/12-v1.0.2/12-joshua-en-v1.0.2.epub",
+            "pdf": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/12-v1.0.2/12-joshua-en-v1.0.2.pdf"
           }
         }
       ]
