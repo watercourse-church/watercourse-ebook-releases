@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-30",
+  "generated": "2026-10-01",
   "repo": "watercourse-church/watercourse-ebook-releases",
   "books": [
     {
@@ -540,7 +540,7 @@
       "author": "조춘숙 목사",
       "publisher": "물줄기교회 출판부",
       "edition": "제1판",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "releaseDate": "2022-01",
       "description": "물줄기교회 조춘숙 목사의 빌립보서 강해 설교집 (제14권).",
       "tags": [
@@ -549,18 +549,26 @@
         "빌립보서",
         "강해"
       ],
-      "tag": "14-v1.0.1",
+      "tag": "14-v1.0.2",
       "downloads": {
-        "epub": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/14-v1.0.1/14-philippians-v1.0.1.epub",
-        "pdf": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/14-v1.0.1/14-philippians-v1.0.1.pdf"
+        "epub": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/14-v1.0.2/14-philippians-v1.0.2.epub",
+        "pdf": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/14-v1.0.2/14-philippians-v1.0.2.pdf"
       },
       "editions": [
         {
           "lang": "ko",
           "title": "주 안에서 같은 마음을 품으라",
           "downloads": {
-            "epub": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/14-v1.0.1/14-philippians-v1.0.1.epub",
-            "pdf": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/14-v1.0.1/14-philippians-v1.0.1.pdf"
+            "epub": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/14-v1.0.2/14-philippians-v1.0.2.epub",
+            "pdf": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/14-v1.0.2/14-philippians-v1.0.2.pdf"
+          }
+        },
+        {
+          "lang": "en",
+          "title": "Think the Same Way in the Lord",
+          "downloads": {
+            "epub": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/14-v1.0.2/14-philippians-en-v1.0.2.epub",
+            "pdf": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/14-v1.0.2/14-philippians-en-v1.0.2.pdf"
           }
         }
       ]
