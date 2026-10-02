@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-01",
+  "generated": "2026-10-02",
   "repo": "watercourse-church/watercourse-ebook-releases",
   "books": [
     {
@@ -34,7 +34,7 @@
         },
         {
           "lang": "en",
-          "title": "The Kingdom You Enter by Dying",
+          "title": "Unless a Grain of Wheat Dies",
           "downloads": {
             "epub": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/01-v1.0.3/01-die-to-live-en-v1.0.3.epub",
             "pdf": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/01-v1.0.3/01-die-to-live-en-v1.0.3.pdf"
@@ -74,7 +74,7 @@
         },
         {
           "lang": "en",
-          "title": "The Stairway of Faith",
+          "title": "Steps of Faith",
           "downloads": {
             "epub": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/02-v1.0.2/02-stairs-of-faith-en-v1.0.2.epub",
             "pdf": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/02-v1.0.2/02-stairs-of-faith-en-v1.0.2.pdf"
@@ -115,7 +115,7 @@
         },
         {
           "lang": "en",
-          "title": "The Beautiful Song",
+          "title": "The Loveliest Song",
           "downloads": {
             "epub": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/03-v1.0.3/03-song-of-songs-en-v1.0.3.epub",
             "pdf": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/03-v1.0.3/03-song-of-songs-en-v1.0.3.pdf"
@@ -156,7 +156,7 @@
         },
         {
           "lang": "en",
-          "title": "The Sermon on the Mount",
+          "title": "Blessed",
           "downloads": {
             "epub": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/04-v1.0.3/04-sermon-on-the-mount-en-v1.0.3.epub",
             "pdf": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/04-v1.0.3/04-sermon-on-the-mount-en-v1.0.3.pdf"
@@ -197,7 +197,7 @@
         },
         {
           "lang": "en",
-          "title": "Bread Cast on the Waters",
+          "title": "Cast Your Bread upon the Waters",
           "downloads": {
             "epub": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/05-v1.0.3/05-ecclesiastes-en-v1.0.3.epub",
             "pdf": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/05-v1.0.3/05-ecclesiastes-en-v1.0.3.pdf"
@@ -238,7 +238,7 @@
         },
         {
           "lang": "en",
-          "title": "Carry Out Every Mission in Love",
+          "title": "Let All That You Do Be Done in Love",
           "downloads": {
             "epub": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/06-v1.0.3/06-1-corinthians-en-v1.0.3.epub",
             "pdf": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/06-v1.0.3/06-1-corinthians-en-v1.0.3.pdf"
@@ -279,7 +279,7 @@
         },
         {
           "lang": "en",
-          "title": "Obedience Better than Sacrifice",
+          "title": "To Obey Is Better than Sacrifice",
           "downloads": {
             "epub": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/07-v1.0.3/07-1-samuel-en-v1.0.3.epub",
             "pdf": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/07-v1.0.3/07-1-samuel-en-v1.0.3.pdf"
@@ -319,7 +319,7 @@
         },
         {
           "lang": "en",
-          "title": "You Whom I Love",
+          "title": "My Beloved",
           "downloads": {
             "epub": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/08-v1.0.2/08-my-beloved-en-v1.0.2.epub",
             "pdf": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/08-v1.0.2/08-my-beloved-en-v1.0.2.pdf"
@@ -360,7 +360,7 @@
         },
         {
           "lang": "en",
-          "title": "Footsteps on the Way Home",
+          "title": "Toward a Better Country",
           "downloads": {
             "epub": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/09-v1.0.3/09-ruth-en-v1.0.3.epub",
             "pdf": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/09-v1.0.3/09-ruth-en-v1.0.3.pdf"
@@ -401,7 +401,7 @@
         },
         {
           "lang": "en",
-          "title": "The Faith of Stephen",
+          "title": "Lord Jesus, Receive My Spirit",
           "downloads": {
             "epub": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/10-v1.0.3/10-stephen-en-v1.0.3.epub",
             "pdf": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/10-v1.0.3/10-stephen-en-v1.0.3.pdf"
@@ -442,7 +442,7 @@
         },
         {
           "lang": "en",
-          "title": "The Road the Church Walks",
+          "title": "What the Spirit Says to the Churches",
           "downloads": {
             "epub": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/11-v1.0.2/11-seven-churches-en-v1.0.2.epub",
             "pdf": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/11-v1.0.2/11-seven-churches-en-v1.0.2.pdf"
@@ -483,7 +483,7 @@
         },
         {
           "lang": "en",
-          "title": "Choose Today Whom You Will Serve",
+          "title": "Choose This Day Whom You Will Serve",
           "downloads": {
             "epub": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/12-v1.0.2/12-joshua-en-v1.0.2.epub",
             "pdf": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/12-v1.0.2/12-joshua-en-v1.0.2.pdf"
@@ -524,7 +524,7 @@
         },
         {
           "lang": "en",
-          "title": "You Have Not Listened to My Voice. Why Have You Done This?",
+          "title": "Why Have You Not Obeyed My Voice?",
           "downloads": {
             "epub": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/13-v1.0.5/13-judges-en-v1.0.5.epub",
             "pdf": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/13-v1.0.5/13-judges-en-v1.0.5.pdf"
@@ -565,7 +565,7 @@
         },
         {
           "lang": "en",
-          "title": "Think the Same Way in the Lord",
+          "title": "Of One Mind in the Lord",
           "downloads": {
             "epub": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/14-v1.0.2/14-philippians-en-v1.0.2.epub",
             "pdf": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/14-v1.0.2/14-philippians-en-v1.0.2.pdf"
@@ -581,7 +581,7 @@
       "author": "조춘숙 목사",
       "publisher": "물줄기교회 출판부",
       "edition": "제1판",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "releaseDate": "2022-11",
       "description": "물줄기교회 조춘숙 목사의 골로새서 강해 설교집 (제15권).",
       "tags": [
@@ -590,18 +590,26 @@
         "골로새서",
         "강해"
       ],
-      "tag": "15-v1.0.1",
+      "tag": "15-v1.0.2",
       "downloads": {
-        "epub": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/15-v1.0.1/15-colossians-v1.0.1.epub",
-        "pdf": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/15-v1.0.1/15-colossians-v1.0.1.pdf"
+        "epub": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/15-v1.0.2/15-colossians-v1.0.2.epub",
+        "pdf": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/15-v1.0.2/15-colossians-v1.0.2.pdf"
       },
       "editions": [
         {
           "lang": "ko",
           "title": "주 안에서 받은 직분을 삼가 이루라",
           "downloads": {
-            "epub": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/15-v1.0.1/15-colossians-v1.0.1.epub",
-            "pdf": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/15-v1.0.1/15-colossians-v1.0.1.pdf"
+            "epub": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/15-v1.0.2/15-colossians-v1.0.2.epub",
+            "pdf": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/15-v1.0.2/15-colossians-v1.0.2.pdf"
+          }
+        },
+        {
+          "lang": "en",
+          "title": "Fulfill the Ministry You Received in the Lord",
+          "downloads": {
+            "epub": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/15-v1.0.2/15-colossians-en-v1.0.2.epub",
+            "pdf": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/15-v1.0.2/15-colossians-en-v1.0.2.pdf"
           }
         }
       ]
