@@ -165,6 +165,47 @@
       ]
     },
     {
+      "id": "05",
+      "slug": "05. 물 위에 던진 떡(전도서)",
+      "title": "물 위에 던진 떡",
+      "bibleBook": "전도서",
+      "author": "조춘숙 목사",
+      "publisher": "물줄기교회 출판부",
+      "edition": "제1판",
+      "version": "1.0.5",
+      "releaseDate": "2010-01",
+      "description": "물줄기교회 조춘숙 목사의 전도서 강해 설교집 (제5권).",
+      "tags": [
+        "기독교",
+        "설교",
+        "전도서",
+        "강해"
+      ],
+      "tag": "05-v1.0.5",
+      "downloads": {
+        "epub": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/05-v1.0.5/05-ecclesiastes-v1.0.5.epub",
+        "pdf": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/05-v1.0.5/05-ecclesiastes-v1.0.5.pdf"
+      },
+      "editions": [
+        {
+          "lang": "ko",
+          "title": "물 위에 던진 떡",
+          "downloads": {
+            "epub": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/05-v1.0.5/05-ecclesiastes-v1.0.5.epub",
+            "pdf": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/05-v1.0.5/05-ecclesiastes-v1.0.5.pdf"
+          }
+        },
+        {
+          "lang": "en",
+          "title": "Cast Your Bread upon the Waters",
+          "downloads": {
+            "epub": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/05-v1.0.5/05-ecclesiastes-en-v1.0.5.epub",
+            "pdf": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/05-v1.0.5/05-ecclesiastes-en-v1.0.5.pdf"
+          }
+        }
+      ]
+    },
+    {
       "id": "06",
       "slug": "06. 모든 사명을 사랑으로 감당하라(고린도전서)",
       "title": "모든 사명을 사랑으로 감당하라",
@@ -242,6 +283,47 @@
           "downloads": {
             "epub": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/11-v1.0.4/11-seven-churches-en-v1.0.4.epub",
             "pdf": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/11-v1.0.4/11-seven-churches-en-v1.0.4.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "14",
+      "slug": "14. 주 안에서 같은 마음을 품으라(빌립보서)",
+      "title": "주 안에서 같은 마음을 품으라",
+      "bibleBook": "빌립보서",
+      "author": "조춘숙 목사",
+      "publisher": "물줄기교회 출판부",
+      "edition": "제1판",
+      "version": "1.0.4",
+      "releaseDate": "2022-01",
+      "description": "물줄기교회 조춘숙 목사의 빌립보서 강해 설교집 (제14권).",
+      "tags": [
+        "기독교",
+        "설교",
+        "빌립보서",
+        "강해"
+      ],
+      "tag": "14-v1.0.4",
+      "downloads": {
+        "epub": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/14-v1.0.4/14-philippians-v1.0.4.epub",
+        "pdf": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/14-v1.0.4/14-philippians-v1.0.4.pdf"
+      },
+      "editions": [
+        {
+          "lang": "ko",
+          "title": "주 안에서 같은 마음을 품으라",
+          "downloads": {
+            "epub": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/14-v1.0.4/14-philippians-v1.0.4.epub",
+            "pdf": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/14-v1.0.4/14-philippians-v1.0.4.pdf"
+          }
+        },
+        {
+          "lang": "en",
+          "title": "Of One Mind in the Lord",
+          "downloads": {
+            "epub": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/14-v1.0.4/14-philippians-en-v1.0.4.epub",
+            "pdf": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/14-v1.0.4/14-philippians-en-v1.0.4.pdf"
           }
         }
       ]
