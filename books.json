@@ -615,6 +615,47 @@
       ]
     },
     {
+      "id": "16",
+      "slug": "16. 율법의 요구와 십자가의 완성(로마서)",
+      "title": "율법의 요구와 십자가의 완성",
+      "bibleBook": "로마서",
+      "author": "조춘숙 목사",
+      "publisher": "물줄기교회 출판부",
+      "edition": "제1판",
+      "version": "1.0.4",
+      "releaseDate": "2023-10",
+      "description": "물줄기교회 조춘숙 목사의 로마서 강해 설교집 (제16권).",
+      "tags": [
+        "기독교",
+        "설교",
+        "로마서",
+        "강해"
+      ],
+      "tag": "16-v1.0.4",
+      "downloads": {
+        "epub": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/16-v1.0.4/16-romans-v1.0.4.epub",
+        "pdf": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/16-v1.0.4/16-romans-v1.0.4.pdf"
+      },
+      "editions": [
+        {
+          "lang": "ko",
+          "title": "율법의 요구와 십자가의 완성",
+          "downloads": {
+            "epub": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/16-v1.0.4/16-romans-v1.0.4.epub",
+            "pdf": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/16-v1.0.4/16-romans-v1.0.4.pdf"
+          }
+        },
+        {
+          "lang": "en",
+          "title": "The Righteous Shall Live by Faith",
+          "downloads": {
+            "epub": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/16-v1.0.4/16-romans-en-v1.0.4.epub",
+            "pdf": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/16-v1.0.4/16-romans-en-v1.0.4.pdf"
+          }
+        }
+      ]
+    },
+    {
       "id": "ark",
       "slug": "(소)생명을 살리는 방주",
       "title": "생명을 살리는 방주",
