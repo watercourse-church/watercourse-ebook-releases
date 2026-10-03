@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-02",
+  "generated": "2026-10-03",
   "repo": "watercourse-church/watercourse-ebook-releases",
   "books": [
     {
@@ -10,7 +10,7 @@
       "author": "조춘숙 목사",
       "publisher": "물줄기교회 출판부",
       "edition": "제1판",
-      "version": "1.0.6",
+      "version": "1.0.7",
       "releaseDate": "2008-04",
       "description": "물줄기교회 조춘숙 목사의 '죽어야만 사는 나라' (물줄기 좋은 씨앗 시리즈) 설교집.",
       "tags": [
@@ -18,189 +18,26 @@
         "설교",
         "신앙인물"
       ],
-      "tag": "01-v1.0.6",
+      "tag": "01-v1.0.7",
       "downloads": {
-        "epub": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/01-v1.0.6/01-die-to-live-v1.0.6.epub",
-        "pdf": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/01-v1.0.6/01-die-to-live-v1.0.6.pdf"
+        "epub": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/01-v1.0.7/01-die-to-live-v1.0.7.epub",
+        "pdf": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/01-v1.0.7/01-die-to-live-v1.0.7.pdf"
       },
       "editions": [
         {
           "lang": "ko",
           "title": "죽어야만 사는 나라",
           "downloads": {
-            "epub": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/01-v1.0.6/01-die-to-live-v1.0.6.epub",
-            "pdf": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/01-v1.0.6/01-die-to-live-v1.0.6.pdf"
+            "epub": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/01-v1.0.7/01-die-to-live-v1.0.7.epub",
+            "pdf": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/01-v1.0.7/01-die-to-live-v1.0.7.pdf"
           }
         },
         {
           "lang": "en",
           "title": "Unless a Grain of Wheat Dies",
           "downloads": {
-            "epub": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/01-v1.0.6/01-die-to-live-en-v1.0.6.epub",
-            "pdf": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/01-v1.0.6/01-die-to-live-en-v1.0.6.pdf"
-          }
-        }
-      ]
-    },
-    {
-      "id": "02",
-      "slug": "02. 믿음의 계단",
-      "title": "믿음의 계단",
-      "bibleBook": "",
-      "author": "조춘숙 목사",
-      "publisher": "물줄기교회 출판부",
-      "edition": "제1판",
-      "version": "1.0.5",
-      "releaseDate": "2020-10",
-      "description": "물줄기교회 조춘숙 목사의 '믿음의 계단' 설교집.",
-      "tags": [
-        "기독교",
-        "설교",
-        "신앙"
-      ],
-      "tag": "02-v1.0.5",
-      "downloads": {
-        "epub": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/02-v1.0.5/02-stairs-of-faith-v1.0.5.epub",
-        "pdf": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/02-v1.0.5/02-stairs-of-faith-v1.0.5.pdf"
-      },
-      "editions": [
-        {
-          "lang": "ko",
-          "title": "믿음의 계단",
-          "downloads": {
-            "epub": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/02-v1.0.5/02-stairs-of-faith-v1.0.5.epub",
-            "pdf": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/02-v1.0.5/02-stairs-of-faith-v1.0.5.pdf"
-          }
-        },
-        {
-          "lang": "en",
-          "title": "Steps of Faith",
-          "downloads": {
-            "epub": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/02-v1.0.5/02-stairs-of-faith-en-v1.0.5.epub",
-            "pdf": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/02-v1.0.5/02-stairs-of-faith-en-v1.0.5.pdf"
-          }
-        }
-      ]
-    },
-    {
-      "id": "03",
-      "slug": "03. 아름다운 노래(아가)",
-      "title": "아름다운 노래",
-      "bibleBook": "아가",
-      "author": "조춘숙 목사",
-      "publisher": "물줄기교회 출판부",
-      "edition": "제1판",
-      "version": "1.0.6",
-      "releaseDate": "2017-02",
-      "description": "물줄기교회 조춘숙 목사의 아가 강해 설교집 (제3권).",
-      "tags": [
-        "기독교",
-        "설교",
-        "아가",
-        "강해"
-      ],
-      "tag": "03-v1.0.6",
-      "downloads": {
-        "epub": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/03-v1.0.6/03-song-of-songs-v1.0.6.epub",
-        "pdf": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/03-v1.0.6/03-song-of-songs-v1.0.6.pdf"
-      },
-      "editions": [
-        {
-          "lang": "ko",
-          "title": "아름다운 노래",
-          "downloads": {
-            "epub": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/03-v1.0.6/03-song-of-songs-v1.0.6.epub",
-            "pdf": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/03-v1.0.6/03-song-of-songs-v1.0.6.pdf"
-          }
-        },
-        {
-          "lang": "en",
-          "title": "The Loveliest Song",
-          "downloads": {
-            "epub": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/03-v1.0.6/03-song-of-songs-en-v1.0.6.epub",
-            "pdf": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/03-v1.0.6/03-song-of-songs-en-v1.0.6.pdf"
-          }
-        }
-      ]
-    },
-    {
-      "id": "04",
-      "slug": "04. 산상수훈 강해(마태복음)",
-      "title": "산상수훈 강해",
-      "bibleBook": "마태복음",
-      "author": "조춘숙 목사",
-      "publisher": "물줄기교회 출판부",
-      "edition": "제1판",
-      "version": "1.0.5",
-      "releaseDate": "2009-08",
-      "description": "물줄기교회 조춘숙 목사의 산상수훈 강해 설교집 (제4권).",
-      "tags": [
-        "기독교",
-        "설교",
-        "마태복음",
-        "강해"
-      ],
-      "tag": "04-v1.0.5",
-      "downloads": {
-        "epub": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/04-v1.0.5/04-sermon-on-the-mount-v1.0.5.epub",
-        "pdf": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/04-v1.0.5/04-sermon-on-the-mount-v1.0.5.pdf"
-      },
-      "editions": [
-        {
-          "lang": "ko",
-          "title": "산상수훈 강해",
-          "downloads": {
-            "epub": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/04-v1.0.5/04-sermon-on-the-mount-v1.0.5.epub",
-            "pdf": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/04-v1.0.5/04-sermon-on-the-mount-v1.0.5.pdf"
-          }
-        },
-        {
-          "lang": "en",
-          "title": "Blessed",
-          "downloads": {
-            "epub": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/04-v1.0.5/04-sermon-on-the-mount-en-v1.0.5.epub",
-            "pdf": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/04-v1.0.5/04-sermon-on-the-mount-en-v1.0.5.pdf"
-          }
-        }
-      ]
-    },
-    {
-      "id": "05",
-      "slug": "05. 물 위에 던진 떡(전도서)",
-      "title": "물 위에 던진 떡",
-      "bibleBook": "전도서",
-      "author": "조춘숙 목사",
-      "publisher": "물줄기교회 출판부",
-      "edition": "제1판",
-      "version": "1.0.5",
-      "releaseDate": "2010-01",
-      "description": "물줄기교회 조춘숙 목사의 전도서 강해 설교집 (제5권).",
-      "tags": [
-        "기독교",
-        "설교",
-        "전도서",
-        "강해"
-      ],
-      "tag": "05-v1.0.5",
-      "downloads": {
-        "epub": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/05-v1.0.5/05-ecclesiastes-v1.0.5.epub",
-        "pdf": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/05-v1.0.5/05-ecclesiastes-v1.0.5.pdf"
-      },
-      "editions": [
-        {
-          "lang": "ko",
-          "title": "물 위에 던진 떡",
-          "downloads": {
-            "epub": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/05-v1.0.5/05-ecclesiastes-v1.0.5.epub",
-            "pdf": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/05-v1.0.5/05-ecclesiastes-v1.0.5.pdf"
-          }
-        },
-        {
-          "lang": "en",
-          "title": "Cast Your Bread upon the Waters",
-          "downloads": {
-            "epub": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/05-v1.0.5/05-ecclesiastes-en-v1.0.5.epub",
-            "pdf": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/05-v1.0.5/05-ecclesiastes-en-v1.0.5.pdf"
+            "epub": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/01-v1.0.7/01-die-to-live-en-v1.0.7.epub",
+            "pdf": "https://github.com/watercourse-church/watercourse-ebook-releases/releases/download/01-v1.0.7/01-die-to-live-en-v1.0.7.pdf"
           }
         }
       ]
